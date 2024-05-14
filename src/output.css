@@ -1062,6 +1062,10 @@ video {
   padding-top: 2rem;
 }
 
+.ps-40 {
+  padding-inline-start: 10rem;
+}
+
 .text-2xl {
   font-size: 1.5rem;
   line-height: 2rem;
@@ -1248,6 +1252,10 @@ video {
 
   .md\:flex {
     display: flex;
+  }
+
+  .md\:hidden {
+    display: none;
   }
 
   .md\:h-screen {
