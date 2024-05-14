@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-web {
+    background-image: url(../assets/img/blackRock.jpeg);
+}
